@@ -1,5 +1,8 @@
 ## Hi there,friend 👋
-
+Meu nome é Larissa Arigoni Ribeiro
+Sou estudante da Alura
+estou utilizando este espaço para compartilhar meus projetos
+você pode entrar em contato comigo no email 00001105346584sp@al.educacao.sp.gov.br
 <!--
 **LarissaArigoni/LarissaArigoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
